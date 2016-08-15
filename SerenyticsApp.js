@@ -1,0 +1,1 @@
+var SerenyticsApp = angular.module("SerenyticsApp", ['ngRoute']);
